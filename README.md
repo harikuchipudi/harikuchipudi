@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harikuchipudi
-- 👀 I’m interested in programming..
-- 🌱 I’m currently learning c 
+- 👀 I’m interested in solving real world challenges..
+- 🌱 I’m currently working with web, app development
 - 💞️ I’m looking to socilize and learn new things
 - 📫 How to reach me you can find me on instagram as @harikuchipudi
 
